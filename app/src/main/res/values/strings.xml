@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cykl życia</string>
+    <string name="wyczysc">Wyczyść</string>
+    <string name="zablokuj">Zablokuj</string>
+    <string name="odblokuj">Odblokuj</string>
+    <string name="wyswietl_zmienne">Zmienne</string>
+    <string name="ostatnia_metoda">Ostatnia metoda cyklu:</string>
+    <string name="historia">Historia:</string>
+</resources>
